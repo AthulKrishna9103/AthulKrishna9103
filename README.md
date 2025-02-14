@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on python projects
 - 📫 How to reach me through Email- athulkrishna9103@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: |0--0| (0-1-0)
+
 
 <!---
 AthulKrishna9103/AthulKrishna9103 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
