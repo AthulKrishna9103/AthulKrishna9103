@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Athul Krishna A
-- 👀 I’m interested in learning programming languages
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on python projects
+- 👀 I’m interested Ai related works
+- 🌱 I’m currently looking to contribute to projects
 - 📫 How to reach me through Email- athulkrishna9103@gmail.com
   
 
